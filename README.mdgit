@@ -1,0 +1,2 @@
+"# cs222_lab1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/nuntid15723/cs222_lab1.gitgit push -u origin main
+"# cs222_lab1"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/nuntid15723/cs222_lab1.gitgit push -u origin maincls
